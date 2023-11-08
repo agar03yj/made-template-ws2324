@@ -1,10 +1,10 @@
 # Project Plan
 
-## Summary
+## Main Questions
 
 <!-- Describe your data science project in max. 5 sentences. -->
 For this purpose, the new registrations of passenger cars and the e-charging station infrastructure are analyzed. It will also be analyzed whether the growth rate of new car registrations is higher than that of the charging stations. Furthermore, it will be analyzed where more charging stations are available in Germany and where more e-cars are newly registered. Furthermore, it will be analyzed whether the number of e-cars and charging stations is higher in large cities or in smaller cities.
-## Rationale
+## Description
 
 <!-- Outline the impact of the analysis, e.g. which pains it solves. -->
 The analysis helps to understand more about the current E-Mobilty situation in Germany and how ready Germany is for climate neutral mobility.
